@@ -8,6 +8,7 @@
 - { setname: eaglemode,                name: eagle-mode }
 - { setname: eaglemode,                name: emmines, addflavor: true }
 - { setname: earcut-hpp,               name: earcut, ruleset: bcr }
+- { setname: earcut-hpp,               name: earcut, ruleset: conan }
 - { setname: easy-rsa,                 name: [easyrsa,easy-rsa2,easy-rsa-old] }
 - { setname: easyeda-pro,              name: [easyeda.pro, easyeda-pro-electron] }
 - { setname: easygit,                  name: [easy-git] }
